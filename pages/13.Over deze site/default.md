@@ -1,5 +1,6 @@
 ---
 title: About
+published: true
 hide_git_sync_repo_link: false
 route: about
 ---
