@@ -33,4 +33,4 @@ pagination: true
 ---
 
 # Welkom bij de **koele boom**
-## Create, Share and Collaborate
+## Geniet, lees en deel je ervaring
