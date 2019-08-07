@@ -7,9 +7,8 @@ hide_title: false
 [.text: alignment(center)]
 
 # Eén boom geeft net zo veel verkoeling als tien airco's
-
+---
 ### Placeholder Slides
-https://eenvandaag.avrotros.nl/item/een-boom-geeft-net-zo-veel-verkoeling-als-tien-aircos/
 
 [.background-color: #FFFFFF]
 
@@ -23,7 +22,7 @@ https://eenvandaag.avrotros.nl/item/een-boom-geeft-net-zo-veel-verkoeling-als-ti
 
 # Hebben we bomen nodig
 
-https://www.youtube.com/watch?v=fuz8IsvduKM
+[youtube]https://www.youtube.com/watch?v=fuz8IsvduKM[youtube]
 
 1. Topic One  
 2. Topic Two   
