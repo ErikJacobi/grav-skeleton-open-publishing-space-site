@@ -1,6 +1,6 @@
 ---
 title: Filmpjes
-hide_git_sync_repo_link: false
+hide_git_sync_repo_link: true
 hide_title: false
 ---
 
@@ -10,7 +10,7 @@ title: Placeholder Slides Title
 
 [.text: alignment(center)]
 
-# CPT 363
+# Bomen filmpjes
 
 ### Placeholder Slides
 
@@ -23,7 +23,9 @@ title: Placeholder Slides Title
 ![fit](https://hibbittsdesign.org/images/ux-toolkit-8-no-numbers.png "Diagram of user experience design process/techniques")
 
 ---
+[youtube]https://www.youtube.com/watch?v=di_YQrEeU6E[/youtube]
 
+---
 [youtube]https://www.youtube.com/watch?v=Nj6x01wg2WA[/youtube]
 
 ---
