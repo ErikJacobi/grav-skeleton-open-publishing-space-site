@@ -4,13 +4,19 @@ hide_git_sync_repo_link: false
 hide_title: false
 ---
 
+---
+title: Placeholder Slides Title
+---
+
 [.text: alignment(center)]
 
-# Eén boom geeft net zo veel verkoeling als tien airco's
----
-test
----
+# CPT 363
+
 ### Placeholder Slides
+
+> “A work in progress. And the possibilities are endless.”
+-- Elizabeth Eulberg
+---
 
 [.background-color: #FFFFFF]
 
@@ -22,10 +28,7 @@ test
 
 ---
 
-# Hebben we bomen nodig
-
-[youtube]https://www.youtube.com/watch?v=fuz8IsvduKM[youtube]
-
+# Topics to Explore
 1. Topic One  
 2. Topic Two   
 3. Topic Three  
