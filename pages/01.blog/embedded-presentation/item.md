@@ -6,7 +6,7 @@ taxonomy:
         - blog
     tag:
         - presentation
-hide_git_sync_repo_link: false
+hide_git_sync_repo_link: true
 hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'
 blog_url: /blog
 show_sidebar: true
