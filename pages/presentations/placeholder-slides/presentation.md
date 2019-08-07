@@ -1,5 +1,7 @@
 ---
-title: Placeholder Slides Title
+title: 'Placeholder Slides Title'
+hide_git_sync_repo_link: false
+hide_title: false
 ---
 
 [.text: alignment(center)]
@@ -23,7 +25,10 @@ title: Placeholder Slides Title
 
 ---
 
-# Topics to Explore
+# Hebben we bomen nodig
+
+https://www.youtube.com/watch?v=fuz8IsvduKM
+
 1. Topic One  
 2. Topic Two   
 3. Topic Three  
