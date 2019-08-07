@@ -1,19 +1,15 @@
 ---
-title: 'Placeholder Slides Title'
+title: Filmpjes
 hide_git_sync_repo_link: false
 hide_title: false
 ---
 
 [.text: alignment(center)]
 
-# CPT 363
+# Eén boom geeft net zo veel verkoeling als tien airco's
 
 ### Placeholder Slides
-
-> “A work in progress. And the possibilities are endless.”
--- Elizabeth Eulberg
-
----
+https://eenvandaag.avrotros.nl/item/een-boom-geeft-net-zo-veel-verkoeling-als-tien-aircos/
 
 [.background-color: #FFFFFF]
 
