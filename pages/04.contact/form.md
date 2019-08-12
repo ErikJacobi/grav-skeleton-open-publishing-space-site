@@ -1,5 +1,6 @@
 ---
-title: 'Contact Form'
+title: Contact
+hide_git_sync_repo_link: false
 menu: Contact
 form:
     name: my-nice-form
@@ -54,4 +55,4 @@ form:
             display: thankyou
 ---
 
-Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+Stuur een bericht.
