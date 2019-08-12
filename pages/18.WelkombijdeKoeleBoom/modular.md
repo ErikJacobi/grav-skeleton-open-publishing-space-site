@@ -1,5 +1,5 @@
 ---
-title: 'Modular 2'
+title: 'Welkom bij de koeleboom.nl'
 content:
     items: '@self.modular'
 published: true
