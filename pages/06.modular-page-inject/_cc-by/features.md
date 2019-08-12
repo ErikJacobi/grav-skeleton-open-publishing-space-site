@@ -1,6 +1,8 @@
 ---
 title: CC-BY
 hide_git_sync_repo_link: false
+hero_classes: ''
+hero_image: ''
 ---
 
 **CC-BY**  
