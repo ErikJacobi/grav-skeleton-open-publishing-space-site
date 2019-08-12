@@ -1,6 +1,6 @@
 ---
 title: Contact
-hide_git_sync_repo_link: false
+hide_git_sync_repo_link: true
 menu: Contact
 form:
     name: my-nice-form
