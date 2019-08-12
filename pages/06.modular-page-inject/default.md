@@ -1,5 +1,10 @@
 ---
 title: Modular
+content:
+    items: '@self.modular'
+    order:
+        by: ''
+        dir: ''
 published: true
 hide_git_sync_repo_link: false
 body_classes: modular
