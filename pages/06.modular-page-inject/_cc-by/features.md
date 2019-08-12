@@ -1,5 +1,5 @@
 ---
-title: CC-BY
+title: 'CC-BY feature'
 hide_git_sync_repo_link: true
 class: standard
 hero_classes: ''
