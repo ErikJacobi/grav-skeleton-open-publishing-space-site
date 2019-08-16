@@ -1,7 +1,7 @@
 ---
 title: Blog
 media_order: Bomenbladerdek.png
-published: false
+published: true
 hide_git_sync_repo_link: true
 body_classes: 'header-dark header-transparent'
 hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'
