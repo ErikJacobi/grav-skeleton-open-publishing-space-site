@@ -1,13 +1,13 @@
 ---
 title: Modular
+published: false
+hide_git_sync_repo_link: false
+body_classes: modular
 content:
     items: '@self.modular'
     order:
         by: ''
         dir: ''
-published: true
-hide_git_sync_repo_link: false
-body_classes: modular
 onpage_menu: false
 page-inject:
     processed_content: false
