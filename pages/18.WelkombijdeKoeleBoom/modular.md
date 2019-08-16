@@ -9,3 +9,4 @@ page-inject:
     processed_content: false
 ---
 
+Welkom bij de koeleboom.nl
