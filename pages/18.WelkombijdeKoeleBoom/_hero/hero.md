@@ -5,4 +5,4 @@ hide_git_sync_repo_link: true
 hero_classes: 'hero-small,'
 ---
 
-Your page content goes here.
+Hero page
