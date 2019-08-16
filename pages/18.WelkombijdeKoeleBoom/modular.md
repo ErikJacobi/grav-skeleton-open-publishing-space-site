@@ -4,6 +4,7 @@ content:
     items: '@self.modular'
 published: true
 hide_git_sync_repo_link: true
+body_classes: 'header-fixed '
 onpage_menu: false
 page-inject:
     processed_content: false
